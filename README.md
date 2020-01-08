@@ -1,4 +1,4 @@
-# motor-sensor
+# automated-robot-brakes
 A simple model of an automated emergency braking system using the ultrasonic module [HC-SR04](https://www.robotshop.com/ca/en/hc-sr04-ultrasonic-range-finder-tys.html?gclid=Cj0KCQiA0NfvBRCVARIsAO4930kOmOdwf8OKxRdgC7gpzQ4CmaPxtbPPZlcoTEany2mF2SZQzRMwBLEaAsoIEALw_wcB), a TI (Texas Intrument) [MSP430](http://www.ti.com/microcontrollers/msp430-ultra-low-power-mcus/overview.html) 16-bit micro-controller, and an [Ivolador](https://www.dhgate.com/product/ivolador-motor-robot-car-chassis-kit-with/401347321.html#seo=WAP) motor robot car chassis kit.
 
 ## Setup
